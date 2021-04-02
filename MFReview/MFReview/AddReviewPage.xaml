@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="AddReview" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MFReview.AddReviewPage">
+    <StackLayout>
+        <Image Source="account.png" HorizontalOptions="Center" Margin="0,30,0,0" HeightRequest="100" WidthRequest="100" BackgroundColor="SlateGray"/>
+        <Button Text="..." HorizontalOptions="Center" HeightRequest="35" WidthRequest="40"  FontSize="10" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,30,0,20">
+            <Label Text="Title" VerticalOptions="CenterAndExpand" FontSize="30" Margin="10,0,10,0"  />
+            <Entry Placeholder="Type Title Here" HorizontalOptions="StartAndExpand" WidthRequest="250" />
+        </StackLayout>
+        <Editor Text="Type Messege Here"  HeightRequest="500" WidthRequest="300"/>
+    </StackLayout>
+</ContentPage>

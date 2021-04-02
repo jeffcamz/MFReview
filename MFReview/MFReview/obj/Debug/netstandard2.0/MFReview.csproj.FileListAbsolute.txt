@@ -1,0 +1,17 @@
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\bin\Debug\netstandard2.0\MFReview.deps.json
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\bin\Debug\netstandard2.0\MFReview.dll
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\bin\Debug\netstandard2.0\ref\MFReview.dll
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\bin\Debug\netstandard2.0\MFReview.pdb
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReviewMasterPage.xaml.g.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReviewMasterPageDetail.xaml.g.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReviewMasterPageMaster.xaml.g.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReview.AssemblyInfoInputs.cache
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReview.AssemblyInfo.cs
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReview.csproj.CoreCompileInputs.cache
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReview.dll
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\ref\MFReview.dll
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\MFReview.pdb
+C:\Users\Wattatops\source\repos\MFReview\MFReview\MFReview\obj\Debug\netstandard2.0\AddReviewPage.xaml.g.cs

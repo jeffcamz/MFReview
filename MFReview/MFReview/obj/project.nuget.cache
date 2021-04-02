@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yhdmptPj0cY0TV9V2aALDLpNTiI0XtmL47SREHf9+3ImKmcNdQZUlHRuc834eH2qVyI/DCuBLxlqXV+kt6Fgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wattatops\\source\\repos\\MFReview\\MFReview\\MFReview\\MFReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wattatops\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wattatops\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Wattatops\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
